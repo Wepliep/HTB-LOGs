@@ -1,0 +1,1 @@
+![INFORMATION_GETHERING-WEB_EDITION](https://academy.hackthebox.com/storage/modules/144/logo.png?t=1709126791)
