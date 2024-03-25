@@ -1,0 +1,1 @@
+![JavaScript Deobfuscation](https://academy.hackthebox.com/storage/modules/41/logo.png?t=1697652886)
